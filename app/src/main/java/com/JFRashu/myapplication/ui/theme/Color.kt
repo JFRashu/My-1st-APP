@@ -1,4 +1,4 @@
-package com.JFRashu.myfirstapplication.ui.theme
+package com.jfrashu.myapplication.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.JFRashu.myfirstapplication
+package com.jfrashu.myapplication
 
 import org.junit.Test
 

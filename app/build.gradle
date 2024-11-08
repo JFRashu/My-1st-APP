@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace 'com.JFRashu.myfirstapplication'
+    namespace 'com.jfrashu.myapplication'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.JFRashu.myfirstapplication"
+        applicationId "com.jfrashu.myapplication"
         minSdk 21
         targetSdk 34
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
